@@ -1,4 +1,4 @@
- * The Tyger * 
+	The Tyger
 
 Tyger! Tyger! burning bright
 In the forests of the night,
